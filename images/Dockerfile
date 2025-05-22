@@ -1,0 +1,1 @@
+FROM gcr.io/pixie-oss/pixie-dev-public/elasticsearch:7.6.0-patched1
