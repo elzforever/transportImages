@@ -1,0 +1,1 @@
+FROM gcr.io/pixie-oss/pixie-prod/vizier-deps/nats:2.9.19-scratch

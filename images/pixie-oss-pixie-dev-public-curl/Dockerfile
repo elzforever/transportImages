@@ -1,0 +1,1 @@
+FROM ghcr.io/pixie-io/pixie-oss-pixie-dev-public-curl:multiarch-7.87.0
